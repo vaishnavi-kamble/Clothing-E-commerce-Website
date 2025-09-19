@@ -1,0 +1,19 @@
+.hero-container {
+    width: 100%;
+    max-width: 1600px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.slider-img {
+    height: 650px; 
+    object-fit: cover; 
+    border-radius: 10px;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 15px;
+    border-radius: 8px;
+}

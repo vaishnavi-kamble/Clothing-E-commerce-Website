@@ -1,0 +1,73 @@
+/* Center the entire section vertically and horizontally */
+.newsletter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; /* Full viewport height */
+    background-color: #f9f9f9;
+  }
+  
+  /* Center the content inside */
+  .newsletter-content {
+    text-align: center;
+    max-width: 900px;
+    padding: 20px;
+  }
+  
+  /* Heading styles */
+  .subheading {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #222;
+  }
+  
+  /* Features section layout */
+  .features-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Individual feature box */
+  .feature-box {
+    flex: 1;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Hover effect */
+  .feature-box:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Feature icons */
+  .icon {
+    font-size: 2rem;
+    color: #007bff;
+  }
+  
+  /* Feature title */
+  .feature-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  /* Feature description */
+  .feature-description {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 5px;
+  }
+  

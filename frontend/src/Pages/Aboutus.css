@@ -1,0 +1,25 @@
+.about-page {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f8f8;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+/* Banner Section */
+.about-banner img {
+  width: 1700px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+/* Content Section */
+.about-content {
+  max-width: 800px;
+  padding: 20px;
+  background-color: white;
+  margin-top: 50PX;
+  margin-left: 450px;
+  margin-right: 200px;
+}

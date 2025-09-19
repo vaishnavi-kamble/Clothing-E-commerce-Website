@@ -1,0 +1,13 @@
+.banner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .banner-image {
+    width: 80%;  /* Adjust this as per your requirement */
+    height: auto;
+    border-radius: 10px;
+  }
+  

@@ -1,4 +1,5 @@
-3.Clothing E-commerce Website (MERN Stack)
+Clothing E-commerce Website (MERN Stack)
+
 Built a full-stack e-commerce platform during a six-week internship using MongoDB, Express.js, React.js, Node.js, and React-Bootstrap.
 Designed a navigation bar with categories (Home, Women, Men, Kids, About Us), along with Login and Cart options.
 Implemented an automatic slider and a section for top-selling products with names, discounts, and prices.
